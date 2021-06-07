@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there I'm Ashutosh 👋
 
 
 
 
 <img src="">
 
-<h2> Hey there! I'm Aditya.</h2>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
