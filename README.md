@@ -10,10 +10,16 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studied B.Tech with Information Technology at AKTU Lucknow's India.
+- 💼 &nbsp; Working as a Freelancers And Webrtc Consultant.
+- 🌱 &nbsp; Learning more about WebRtc, Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.  
+- 👯 I’m looking to collaborate on Openvidu and KMS scalbilty 
+- 🤔 I’m looking for help with  WebRtc with VR And AR
+- 💬 Ask me about 
+- 📫 How to reach me: https://www.linkedin.com/in/ashutoshmishraji/
+- 😄 Pronouns: Ash Outside India and Ashu for Inside India
+- ⚡ Fun fact: I'm a Enterpuner  with dreams 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -49,8 +55,8 @@
 <br/>
 
 <a href="https://github.com/ashutoshmishraji">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutoshmishraji &theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshmishraji &theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutoshmishraji&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshmishraji&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -63,17 +69,5 @@
 <a href="mailto:ashutoshmishra255941@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashutoshmishra255941@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [ashutoshmishraji ](https://github.com/ashutoshmishraji)
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
--  1.[!WebRtc](https://img.shields.io/badge/-webrtc-44444?style=flat&logo=webrtc)
-- 🌱 I’m currently learning ...
--    
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
