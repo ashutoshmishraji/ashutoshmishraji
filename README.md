@@ -14,12 +14,12 @@
 - 💼 &nbsp; Working as a Freelancers And Webrtc Consultant.
 - 🌱 &nbsp; Learning more about WebRtc, Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.  
-- 👯 I’m looking to collaborate on Openvidu and KMS scalbilty 
-- 🤔 I’m looking for help with  WebRtc with VR And AR
-- 💬 Ask me about 
-- 📫 How to reach me: https://www.linkedin.com/in/ashutoshmishraji/
-- 😄 Pronouns: Ash Outside India and Ashu for Inside India
-- ⚡ Fun fact: I'm a Enterpuner  with dreams 
+- 👯 &nbsp; I’m looking to collaborate on Openvidu and KMS scalbilty 
+- 🤔 &nbsp; I’m looking for help with  WebRtc with VR And AR
+- 💬 &nbsp; Ask me about WebRtc and Media Server 
+- 📫 &nbsp; How to reach me: https://www.linkedin.com/in/ashutoshmishraji/
+- 😄 &nbsp; Pronouns: Ash Outside India and Ashu for Inside India
+- ⚡ &nbsp; Fun fact: I'm a Enterpuner  with dreams 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
