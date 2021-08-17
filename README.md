@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/ashutoshmishraji/ashutoshmishraji/blob/ac0328e12e4941e4cebc61270dc222205ce5be0e/image.png">
+<img src="https://github.com/ashutoshmishraji/ashutoshmishraji/blob/81fdfea34f833fb00aa556e12159e01de7d0394b/Pink%20and%20Purple%20Professional%20LinkedIn%20Banner.png">
 
 
 
